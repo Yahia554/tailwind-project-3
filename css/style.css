@@ -22,3 +22,14 @@ button {
   transition: all linear 0.3s;
 }
 /* banner part css end */
+
+/* wark */
+.wark {
+  transition: all linear 0.5s;
+  z-index: 10;
+}
+.wark:hover {
+  transform: rotate(10deg);
+  transition: all linear 1s;
+  z-index: -0;
+}

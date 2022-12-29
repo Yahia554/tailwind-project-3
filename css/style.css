@@ -25,10 +25,10 @@ button {
 
 /* wark */
 .wark {
-  transition: all linear 0.5s;
+  transition: all linear 0.3s;
 }
 .wark:hover {
   transform: rotate(10deg);
-  transition: all linear 1s;
+  transition: all linear 0.3s;
   z-index: -0;
 }
